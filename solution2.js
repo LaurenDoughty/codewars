@@ -9,3 +9,5 @@ function remove (string) {
   } else {
      return string
   }
+ 
+}
